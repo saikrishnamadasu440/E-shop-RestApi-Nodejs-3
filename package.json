@@ -1,12 +1,71 @@
 {
+  
+  "name": "e-shop-restapi-nodejs-master",
+  
+  "description": "An E-commerce REST API created using Node.js, Express.js and MongoDB. The API uses promises extensively to query the MongoDB database.",
+  
+  "version": "1.0.0",
+  
+  "main": "app.js",
+  
+  "repository": {
+  
+    
+  "type": "git",
+  
+    
+  "url": "git+https://github.com/saikrishnamadasu440/E-shop-RestApi-Nodejs-3.git"
+  
+  },
+  
+  "scripts": {
+  
+    
+  "start": "node server.js"
+  
+  },
+  
+  "author": "sai krishna",
+  
+  "license": "ISC",
+  
   "dependencies": {
-    "body-parser": "^1.20.2",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "jsonwebtoken": "^9.0.0",
-    "mongoose": "^7.1.1",
-    "morgan": "^1.10.0",
-    "multer": "^1.4.5-lts.1",
-    "password-hash": "^1.2.2"
-  }
+  
+    
+  "body-parser": "^1.20.2",
+  
+    
+  "dotenv": "^16.0.3",
+  
+    
+  "express": "^4.18.2",
+  
+    
+  "jsonwebtoken": "^9.0.0",
+  
+    
+  "mongoose": "^6.8.4",
+  
+    
+  "morgan": "^1.10.0",
+  
+    
+  "multer": "^1.4.5-lts.1",
+  
+    
+  "password-hash": "^1.2.2",
+  
+    
+  "path": "^0.12.7"
+  
+  },
+  
+  "bugs": {
+  
+    
+  "url": "https://github.com/saikrishnamadasu440/E-shop-RestApi-Nodejs-3/issues"
+  
+  },
+  
+  "homepage": "https://github.com/saikrishnamadasu440/E-shop-RestApi-Nodejs-3#readme"
 }
